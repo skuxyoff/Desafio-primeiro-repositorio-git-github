@@ -1,0 +1,9 @@
+* {
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+.texto_principal {
+    font-size: 200px;
+    font-weight: 900;
+    color: hsl(19, 89%, 43%);
+}
